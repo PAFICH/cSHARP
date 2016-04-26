@@ -1,0 +1,5 @@
+na pobitovite operacii pomisli kakvo pravi vseki operator, i shte si reshish zadachata vednaga
+XOR e mnogo polezen tam
+A ako imash da broish kolko bitove sa 1 v dadeno chislo, vchera namerih mnogo qk algoritm v stackoverflow
+Pishi hammington weight
+Napravo ti e gotova edna zadacha wink
